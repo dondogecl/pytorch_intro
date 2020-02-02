@@ -1,6 +1,8 @@
 ## Bertelsmann x Udacity
 # Intro to Deep Learning with PyTorch
 
+![pytorch logo](https://github.com/dondogecl/pytorch_intro/blob/master/images/udacitypytorch-welcomepage-image-v2.png "PyTorch Banner")
+
 Este repositorio es un respaldo de los ejercicios y contenido visto en el curso de Deep Learning con PyTorch, en Udacity.
 En las sub carpetas iré dejando las tareas, ejemplos de código y también material de aprendizaje relevante para este curso. He escrito esto en castellano a propósito, dado que es muy compun encontrar material similar en inglés. Espero que aparte de servirme como apuntes de las clases, le pueda servir como material de referencia a otros que estén aprendiendo estas herramientas.
 
